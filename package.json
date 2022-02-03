@@ -1,0 +1,14 @@
+{
+  "name": "bali",
+  "version": "1.0.0",
+  "description": "Commit-based editable ipfs storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goonlagoon",
+  "license": "MIT",
+  "dependencies": {
+    "ipfs-core": "^0.14.0"
+  }
+}
